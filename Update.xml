@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<sharpUpdate>
+	<update appId= "TestApp">
+		<version>2.0.0.0</version>
+		<url>https://drive.google.com/open?id=0B8UJxsq-i2N9UDJjUnFUdWQ1a3c</url>
+		<fileName>TestApp2.exe</fileName>
+		<md5>e3fd06664f0bedda8ea384bcb1b06960</md5>
+		<description>Initial update</description>
+		<launchArgs></launchArgs>
+	</update>
+</sharpUpdate>
